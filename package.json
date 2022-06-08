@@ -1,0 +1,15 @@
+{
+  "name": "tweetsstream",
+  "version": "1.0.0",
+  "description": "Interface to fetch tweets",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yaroslav Minakov",
+  "license": "ISC"
+}
