@@ -1,3 +1,16 @@
 {
-    "hello": "friend"
+    "rules": [
+        {
+            "index": 0,
+            "description": "From Elon Musk",
+            "value": "from:elonmusk"
+        }
+    ],
+    "users": [
+        {
+            "name": "elonmusk",
+            "description": "Elon Musk acc",
+            "id": 111111111
+        }
+    ]
 }
